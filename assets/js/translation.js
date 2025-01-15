@@ -65,4 +65,4 @@ function translateContent(lang) {
 }
 
 // Appel de la fonction pour définir la langue par défaut lors du chargement de la page
-window.onload = () => translateContent('fr');
+window.onload = () => translateContent('tn');
